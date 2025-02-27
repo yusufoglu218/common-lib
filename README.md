@@ -16,3 +16,9 @@ This project provides libraries for Kafka Producer-Consumer projects.
 ## 📋 Requirements  
 - Java 17+   
 - Maven  
+
+## 🚀 Build the Application
+
+```bash
+mvn clean install
+```
